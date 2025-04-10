@@ -22,8 +22,3 @@ El repositorio se organiza de la siguiente manera:
 - **Módulo 4:** Manejo de eventos y funciones.
 - **Módulo 5:** Proyecto final de integración de lo aprendido.
 
-## Instrucciones para Ejecutar los Ejemplos
-
-1. Clona este repositorio en tu máquina local:
-   ```bash
-   git clone https://github.com/tu_usuario/python-customtkinter.git
